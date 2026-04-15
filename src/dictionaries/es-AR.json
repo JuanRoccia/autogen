@@ -1,0 +1,293 @@
+{
+    "metadata": {
+        "title": "Verdades Veladas",
+        "description": "Generador de contenido para el conspirador moderno."
+    },
+    "dashboardLayout": {
+        "pageTitles": {
+            "themeGenerator": "Generador de Temas",
+            "contentAligner": "Alineador de Contenido",
+            "publisher": "Publicador",
+            "scheduler": "Planificador",
+            "dashboard": "Tablero",
+            "default": "Verdades Veladas"
+        },
+        "sidebar": {
+            "header": "Verdades Veladas",
+            "dashboard": "Tablero",
+            "aiTools": "Herramientas IA",
+            "themeGenerator": "Generador de Temas",
+            "new": "Nuevo",
+            "contentAligner": "Alineador",
+            "publisher": "Publicador",
+            "planning": "Planificación",
+            "scheduler": "Planificador",
+            "analytics": "Analíticas",
+            "sales": "Ventas",
+            "bookPromotion": "Promoción del Libro",
+            "subscriptions": "Suscripciones"
+        },
+        "userMenu": {
+            "myAccount": "Mi Cuenta",
+            "profile": "Perfil",
+            "settings": "Ajustes",
+            "logout": "Cerrar Sesión",
+            "agentName": "Agente Smith",
+            "membership": "Miembro Pro",
+            "language": "Idioma",
+            "english": "Inglés",
+            "argento": "Argento"
+        }
+    },
+    "themeGenerator": {
+        "title": "Generación Avanzada de Temas",
+        "description": "Creá el tema de conspiración perfecto proveyendo contexto, palabras clave y especificando el tono y formato deseado.",
+        "inspiration": {
+            "title": "¿Necesitás Inspiración?",
+            "description": "Analizá las últimas tendencias en redes sociales para obtener sugerencias de temas y palabras clave potenciadas por IA.",
+            "button": "Analizar Últimas Tendencias",
+            "loading": "Analizando las últimas tendencias de redes sociales..."
+        },
+        "trendAnalysis": {
+            "title": "Análisis de Tendencias Completo",
+            "suggestedTopics": "Temas Sugeridos (hacé clic para usar):",
+            "suggestedKeywords": "Palabras Clave Sugeridas (hacé clic para usar):",
+            "alignSwitch": "Alinear temas generados con tendencias relacionadas",
+            "errorTitle": "Error en Análisis de Tendencias",
+            "errorDescription": "No se pudieron cargar los datos de tendencias. Por favor, intentá de nuevo."
+        },
+        "form": {
+            "currentEventsLabel": "Eventos Actuales o Temas",
+            "currentEventsPlaceholder": "Ej: Fenómenos globales recientes sin explicación, cambios políticos, nuevos descubrimientos científicos...",
+            "keywordsLabel": "Palabras Clave",
+            "keywordsPlaceholder": "Ej: aliens, sociedades secretas, tecnología antigua, teoría de la simulación",
+            "toneLabel": "Tono",
+            "tonePlaceholder": "Seleccioná un tono",
+            "tones": {
+                "serious": "Serio",
+                "satirical": "Satírico",
+                "investigative": "De Investigación",
+                "sensationalist": "Sensacionalista"
+            },
+            "formatLabel": "Formato / Plataforma",
+            "formatPlaceholder": "Seleccioná un formato",
+            "formats": {
+                "general": "Ideas Generales",
+                "blog": "Títulos para Blog",
+                "twitter": "Ganchos para Hilos de Twitter",
+                "video": "Conceptos para Guiones de Video"
+            },
+            "submitButton": "Generar Temas Avanzados",
+            "generatingButton": "Generando..."
+        },
+        "results": {
+            "title": "Temas Generados",
+            "loading": "La IA está descubriendo verdades ocultas..."
+        }
+    },
+    "dashboardPage": {
+        "performanceDashboard": {
+            "title": "Tablero de Rendimiento",
+            "description": "Seguí el rendimiento de tu contenido y la interacción de tu audiencia."
+        },
+        "twitterIntegration": {
+            "title": "Integración con Twitter",
+            "description": "Conectá tu cuenta para publicar contenido directamente.",
+            "checkingStatus": "Verificando estado...",
+            "connectedAs": "Conectado como @{user}",
+            "disconnect": "Desconectar",
+            "connect": "Conectar Twitter",
+            "connectionError": "Error de Conexión",
+            "unknownError": "Ocurrió un error desconocido.",
+            "connectSuccess": "¡Éxito!",
+            "connectSuccessDesc": "Tu cuenta de Twitter ha sido conectada.",
+            "connectFail": "Falló la Conexión",
+            "connectFailDesc": "No se pudo conectar a Twitter. Por favor, intentá de nuevo.",
+            "disconnectSuccess": "Twitter Desconectado",
+            "disconnectFail": "Falló la Desconexión",
+            "disconnectFailDesc": "No se pudo desconectar tu cuenta."
+        },
+        "conspiracyThemeGenerator": {
+            "title": "Generador de Temas de Conspiración",
+            "description": "Generá temas de conspiración basados en eventos actuales y palabras clave.",
+            "form": {
+                "currentEventsLabel": "Eventos Actuales",
+                "currentEventsPlaceholder": "Ej: Fenómenos globales recientes sin explicación, cambios políticos...",
+                "keywordsLabel": "Palabras Clave",
+                "keywordsPlaceholder": "Ej: aliens, sociedades secretas, tecnología antigua",
+                "submitButton": "Generar Temas",
+                "generatingButton": "Generando..."
+            },
+            "results": {
+                "title": "Temas Generados:"
+            }
+        },
+        "promotionCards": {
+            "book": {
+                "title": "Promocioná el Libro",
+                "description": "Dirigí tráfico a tu obra maestra, \"Ignobiles Veritates\".",
+                "content": "Destacá el libro en tu contenido. Usá las sugerencias generadas para crear publicaciones atractivas que generen ventas.",
+                "button": "Ir a la Página del Libro"
+            },
+            "subscription": {
+                "title": "Embudo de Suscripción",
+                "description": "Convertí seguidores en suscriptores de pago para contenido exclusivo.",
+                "content": "Creá embudos de contenido automatizados que guíen a tu audiencia hacia tus ofertas de suscripción premium.",
+                "button": "Ver Niveles de Suscripción"
+            }
+        }
+    },
+    "contentAlignerPage": {
+        "title": "Alineador de Contenido de Plataforma",
+        "description": "Obtené sugerencias de contenido impulsadas por IA y adaptadas a cada plataforma.",
+        "form": {
+            "themeLabel": "Tema de Conspiración",
+            "themePlaceholder": "Ingresá el tema del generador",
+            "platformLabel": "Plataforma",
+            "platformPlaceholder": "Seleccioná una plataforma",
+            "audienceLabel": "Audiencia Objetivo",
+            "audiencePlaceholder": "Describí tu audiencia objetivo",
+            "submitButton": "Obtener Sugerencia",
+            "aligningButton": "Alineando..."
+        },
+        "results": {
+            "suggestionTitle": "Sugerencia de Contenido:",
+            "reasoningTitle": "Razonamiento:",
+            "continueButton": "Continuar al Publicador"
+        }
+    },
+    "publisherPage": {
+        "title": "Publicador de Contenido",
+        "description": "Refiná, mejorá y publicá tu contenido generado. El paso final en tu flujo de creación.",
+        "contentPlaceholder": "Tu contenido va acá...",
+        "buttons": {
+            "expandThread": "Expandir a Hilo",
+            "threadComplete": "Hilo Completo",
+            "generateImage": "Generar Imagen",
+            "uploadImage": "Subir Imagen"
+        },
+        "narrativeProgress": {
+            "title": "Progreso de la Narrativa",
+            "complete": "Completo"
+        },
+        "generatedImage": {
+            "title": "Imagen Generada",
+            "placeholder": "La imagen aparecerá acá",
+            "errorTitle": "No se puede generar la imagen",
+            "errorDescription": "Por favor, proporcioná un tema o contenido para generar una imagen.",
+            "altText": "Imagen para el contenido"
+        },
+        "refine": {
+            "inputPlaceholder": "Ej: Hacelo más misterioso, revisá la gramática...",
+            "buttonText": "Refinar",
+            "errorTitle": "Falta Contenido",
+            "errorDescription": "Por favor, ingresá contenido y una solicitud antes de refinar."
+        },
+        "trendAnalysis": {
+            "title": "Análisis de Tendencias",
+            "buttonText": "Verificar Tendencias para \"{topic}\"",
+            "buttonDefaultText": "Tema",
+            "relatedHashtags": "Hashtags Relacionados:",
+            "errorTitle": "Falló el Análisis de Tendencias",
+            "errorDescription": "No se pudieron obtener las tendencias para este tema."
+        },
+        "publish": {
+            "connection_title": "Conexión con Twitter",
+            "connection_success_title": "¡Conexión Exitosa!",
+            "connection_success_desc": "Tu cuenta de Twitter ha sido conectada.",
+            "connection_failed_title": "Falló la Conexión",
+            "checking_status": "Verificando conexión...",
+            "connected_status_as": "Conectado como @{user}",
+            "not_connected_status": "No conectado a Twitter",
+            "title": "Publicar",
+            "buttonText": "Publicar Ahora",
+            "scheduleButton": "Programar Posteo",
+            "description": "Conectá tu cuenta de X/Twitter para publicar.",
+            "connect_button": "Conectar Twitter",
+            "connected_status": "Conectado a Twitter",
+            "disconnect_button": "Desconectar",
+            "disconnect_success_title": "Twitter Desconectado"
+        }
+    },
+    "schedulerPage": {
+        "title": "Planificador de Contenido y Estrategia",
+        "description": "Planificá tu contenido, visualizá tu cronograma y generá estrategias de engagement.",
+        "tasks": {
+            "header": "Tareas para el {date}",
+            "noTasks": "No hay tareas programadas para este día.",
+            "defaultTitle": "Posteo Programado",
+            "statusCompleted": "Completado",
+            "statusPending": "Pendiente"
+        },
+        "engagement": {
+            "title": "Estrategia de Engagement",
+            "description": "Generá texto persuasivo para interactuar con tu audiencia.",
+            "topicLabel": "Contexto / Tema",
+            "topicPlaceholder": "Ej: Un posteo de un usuario sobre la tierra plana",
+            "typeLabel": "Tipo",
+            "types": {
+                "comment": "Comentario",
+                "dm": "Mensaje Directo"
+            },
+            "styleLabel": "Estilo",
+            "styles": {
+                "nietzschean": "Nietzscheano",
+                "socratic": "Socrático",
+                "stoic": "Estoico"
+            },
+            "buttonText": "Generar Estrategia",
+            "results": {
+                "strategyTitle": "Estrategia:",
+                "textTitle": "Texto Sugerido:"
+            }
+        },
+        "toasts": {
+            "postScheduledTitle": "¡Posteo Programado!",
+            "postScheduledDescription": "Tu posteo fue agregado al calendario.",
+            "strategyErrorTitle": "Falló la Generación de Estrategia",
+            "strategyErrorDescription": "La IA no pudo generar una estrategia. Por favor, intentá de nuevo."
+        }
+    },
+    "shared": {
+        "generatedThemesList": {
+            "copySuccess": "Tema copiado al portapapeles",
+            "copyErrorTitle": "Falló al copiar",
+            "copyErrorDescription": "No se pudo copiar el tema al portapapeles.",
+            "continueButton": "Continuar al Alineador de Contenido"
+        },
+        "toasts": {
+            "error_generating_themes_title": "Error al Generar Temas",
+            "error_generating_themes_description": "Hubo un problema al generar los temas. Por favor, intentá de nuevo.",
+            "error_generating_content_title": "Error al Generar Contenido",
+            "error_generating_content_description": "Hubo un problema al generar contenido. Por favor, intentá de nuevo.",
+            "copy_suggestion_success": "Sugerencia copiada al portapapeles",
+            "copy_suggestion_error_title": "Falló al copiar",
+            "copy_suggestion_error_description": "No se pudo copiar la sugerencia al portapapeles.",
+            "expanding_thread_title": "Expandiendo hilo: {stage}",
+            "expanding_thread_description": "Esto tomará un momento.",
+            "expand_success": "¡Hilo expandido!",
+            "expand_error_title": "Error al Expandir Hilo",
+            "expand_error_description": "No se pudo generar la siguiente parte del hilo.",
+            "generating_image_title": "Generando imagen relacionada...",
+            "generating_image_description": "La IA está creando una obra maestra visual.",
+            "generate_image_success": "¡Imagen generada con éxito!",
+            "generate_image_error_title": "Falló la Generación de Imagen",
+            "generate_image_error_description": "No se pudo generar la imagen. Por favor, intentá de nuevo.",
+            "upload_image_success": "¡Imagen subida con éxito!",
+            "upload_image_error_title": "Falló la Subida de Imagen",
+            "upload_image_error_description": "Hubo un problema al subir tu imagen.",
+            "upload_image_too_large": "La imagen seleccionada es demasiado grande. Por favor, elegí un archivo de menos de 4MB.",
+            "trends_fetched": "Últimas tendencias obtenidas.",
+            "publishing_title": "Publicando contenido...",
+            "publishing_description": "Conectando con la matriz social...",
+            "publish_success_title": "¡Contenido Publicado!",
+            "publish_success_description": "Tu mensaje ha sido transmitido.",
+            "publish_error_title": "Falló la Publicación",
+            "refining_content_title": "Refinando contenido...",
+            "refining_content_description": "La IA está puliendo tu texto.",
+            "refine_success": "¡Contenido refinado con éxito!",
+            "refine_error_title": "Error al Refinar Contenido",
+            "refine_error_description": "No se pudo refinar el contenido. Por favor, intentá de nuevo."
+        }
+    }
+}

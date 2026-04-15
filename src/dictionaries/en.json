@@ -1,0 +1,293 @@
+{
+    "metadata": {
+        "title": "Veiled Truths",
+        "description": "Content generator for the modern conspiracist."
+    },
+    "dashboardLayout": {
+        "pageTitles": {
+            "themeGenerator": "Theme Generator",
+            "contentAligner": "Content Aligner",
+            "publisher": "Content Publisher",
+            "scheduler": "Scheduler",
+            "dashboard": "Dashboard",
+            "default": "Veiled Truths"
+        },
+        "sidebar": {
+            "header": "Veiled Truths",
+            "dashboard": "Dashboard",
+            "aiTools": "AI Tools",
+            "themeGenerator": "Theme Generator",
+            "new": "New",
+            "contentAligner": "Content Aligner",
+            "publisher": "Publisher",
+            "planning": "Planning",
+            "scheduler": "Scheduler",
+            "analytics": "Analytics",
+            "sales": "Sales",
+            "bookPromotion": "Book Promotion",
+            "subscriptions": "Subscriptions"
+        },
+        "userMenu": {
+            "myAccount": "My Account",
+            "profile": "Profile",
+            "settings": "Settings",
+            "logout": "Log out",
+            "agentName": "Agent Smith",
+            "membership": "Pro Member",
+            "language": "Language",
+            "english": "English",
+            "argento": "Argento"
+        }
+    },
+    "themeGenerator": {
+        "title": "Advanced Theme Generation",
+        "description": "Craft the perfect conspiracy theme by providing context, keywords, and specifying the desired tone and format.",
+        "inspiration": {
+            "title": "Need Inspiration?",
+            "description": "Analyze the latest social media trends to get AI-powered suggestions for topics and keywords.",
+            "button": "Analyze Latest Trends",
+            "loading": "Analyzing latest social media trends..."
+        },
+        "trendAnalysis": {
+            "title": "Trend Analysis Complete",
+            "suggestedTopics": "Suggested Topics (click to use):",
+            "suggestedKeywords": "Suggested Keywords (click to use):",
+            "alignSwitch": "Align generated themes with related trends",
+            "errorTitle": "Trend Analysis Error",
+            "errorDescription": "Could not load trend data. Please try again."
+        },
+        "form": {
+            "currentEventsLabel": "Current Events or Topics",
+            "currentEventsPlaceholder": "e.g., Recent unexplained global phenomena, political shifts, new scientific discoveries...",
+            "keywordsLabel": "Keywords",
+            "keywordsPlaceholder": "e.g., aliens, secret societies, ancient technology, simulation theory",
+            "toneLabel": "Tone",
+            "tonePlaceholder": "Select a tone",
+            "tones": {
+                "serious": "Serious",
+                "satirical": "Satirical",
+                "investigative": "Investigative",
+                "sensationalist": "Sensationalist"
+            },
+            "formatLabel": "Format / Platform",
+            "formatPlaceholder": "Select a format",
+            "formats": {
+                "general": "General Ideas",
+                "blog": "Blog Post Titles",
+                "twitter": "Twitter Thread Hooks",
+                "video": "Video Script Concepts"
+            },
+            "submitButton": "Generate Advanced Themes",
+            "generatingButton": "Generating..."
+        },
+        "results": {
+            "title": "Generated Themes",
+            "loading": "The AI is uncovering hidden truths..."
+        }
+    },
+    "dashboardPage": {
+        "performanceDashboard": {
+            "title": "Performance Dashboard",
+            "description": "Track your content performance and audience engagement."
+        },
+        "twitterIntegration": {
+            "title": "Twitter Integration",
+            "description": "Connect your account to publish content directly.",
+            "checkingStatus": "Checking status...",
+            "connectedAs": "Connected as @{user}",
+            "disconnect": "Disconnect",
+            "connect": "Connect Twitter",
+            "connectionError": "Connection Error",
+            "unknownError": "An unknown error occurred.",
+            "connectSuccess": "Success!",
+            "connectSuccessDesc": "Your Twitter account is now connected.",
+            "connectFail": "Connection Failed",
+            "connectFailDesc": "Could not connect to Twitter. Please try again.",
+            "disconnectSuccess": "Twitter Disconnected",
+            "disconnectFail": "Disconnection Failed",
+            "disconnectFailDesc": "Could not disconnect your account."
+        },
+        "conspiracyThemeGenerator": {
+            "title": "Conspiracy Theme Generator",
+            "description": "Generate conspiracy theory themes based on current events and keywords.",
+            "form": {
+                "currentEventsLabel": "Current Events",
+                "currentEventsPlaceholder": "e.g., Recent unexplained global phenomena, political shifts...",
+                "keywordsLabel": "Keywords",
+                "keywordsPlaceholder": "e.g., aliens, secret societies, ancient technology",
+                "submitButton": "Generate Themes",
+                "generatingButton": "Generating..."
+            },
+            "results": {
+                "title": "Generated Themes:"
+            }
+        },
+        "promotionCards": {
+            "book": {
+                "title": "Promote The Book",
+                "description": "Drive traffic to your masterpiece, \"Ignobiles Veritates\".",
+                "content": "Feature the book prominently in your content. Use generated suggestions to create compelling posts that lead to sales.",
+                "button": "Go to Book Page"
+            },
+            "subscription": {
+                "title": "Subscription Funnel",
+                "description": "Convert followers into paying subscribers for exclusive content.",
+                "content": "Create automated content funnels that guide your audience towards your premium subscription offerings.",
+                "button": "View Subscription Tiers"
+            }
+        }
+    },
+    "contentAlignerPage": {
+        "title": "Platform Content Aligner",
+        "description": "Get AI-driven content suggestions tailored for each platform.",
+        "form": {
+            "themeLabel": "Conspiracy Theme",
+            "themePlaceholder": "Enter the theme from the generator",
+            "platformLabel": "Platform",
+            "platformPlaceholder": "Select a platform",
+            "audienceLabel": "Target Audience",
+            "audiencePlaceholder": "Describe your target audience",
+            "submitButton": "Get Suggestion",
+            "aligningButton": "Aligning..."
+        },
+        "results": {
+            "suggestionTitle": "Content Suggestion:",
+            "reasoningTitle": "Reasoning:",
+            "continueButton": "Continue to Publisher"
+        }
+    },
+    "publisherPage": {
+        "title": "Content Publisher",
+        "description": "Refine, enhance, and publish your generated content. The final step in your creation workflow.",
+        "contentPlaceholder": "Your content goes here...",
+        "buttons": {
+            "expandThread": "Expand to Thread",
+            "threadComplete": "Thread Complete",
+            "generateImage": "Generate Image",
+            "uploadImage": "Upload Image"
+        },
+        "narrativeProgress": {
+            "title": "Narrative Progress",
+            "complete": "Complete"
+        },
+        "generatedImage": {
+            "title": "Generated Image",
+            "placeholder": "Image will appear here",
+            "errorTitle": "Cannot Generate Image",
+            "errorDescription": "Please provide a theme or content to generate an image from.",
+            "altText": "Image for the content"
+        },
+        "refine": {
+            "inputPlaceholder": "e.g., Make it more mysterious, check grammar...",
+            "buttonText": "Refine",
+            "errorTitle": "Missing Content",
+            "errorDescription": "Please provide content and a request before refining."
+        },
+        "trendAnalysis": {
+            "title": "Trend Analysis",
+            "buttonText": "Check Trends for \"{topic}\"",
+            "buttonDefaultText": "Topic",
+            "relatedHashtags": "Related Hashtags:",
+            "errorTitle": "Trend Analysis Failed",
+            "errorDescription": "Could not fetch trends for this topic."
+        },
+        "publish": {
+            "connection_title": "Twitter Connection",
+            "connection_success_title": "Connection Successful!",
+            "connection_success_desc": "Your Twitter account has been connected.",
+            "connection_failed_title": "Connection Failed",
+            "checking_status": "Checking connection...",
+            "connected_status_as": "Connected as @{user}",
+            "not_connected_status": "Not connected to Twitter",
+            "title": "Publish",
+            "buttonText": "Publish Now",
+            "scheduleButton": "Schedule Post",
+            "description": "Connect your X/Twitter account to publish.",
+            "connect_button": "Connect Twitter",
+            "connected_status": "Connected to Twitter",
+            "disconnect_button": "Disconnect",
+            "disconnect_success_title": "Twitter Disconnected"
+        }
+    },
+    "schedulerPage": {
+        "title": "Content Scheduler & Strategy",
+        "description": "Plan your content, visualize your schedule, and generate engagement strategies.",
+        "tasks": {
+            "header": "Tasks for {date}",
+            "noTasks": "No tasks scheduled for this day.",
+            "defaultTitle": "Scheduled Post",
+            "statusCompleted": "Completed",
+            "statusPending": "Pending"
+        },
+        "engagement": {
+            "title": "Engagement Strategy",
+            "description": "Generate persuasive text to interact with your audience.",
+            "topicLabel": "Context / Topic",
+            "topicPlaceholder": "e.g., A user's post about flat earth theory",
+            "typeLabel": "Type",
+            "types": {
+                "comment": "Comment",
+                "dm": "Direct Message"
+            },
+            "styleLabel": "Style",
+            "styles": {
+                "nietzschean": "Nietzschean",
+                "socratic": "Socratic",
+                "stoic": "Stoic"
+            },
+            "buttonText": "Generate Strategy",
+            "results": {
+                "strategyTitle": "Strategy:",
+                "textTitle": "Suggested Text:"
+            }
+        },
+        "toasts": {
+            "postScheduledTitle": "Post Scheduled!",
+            "postScheduledDescription": "Your post has been added to the calendar.",
+            "strategyErrorTitle": "Strategy Generation Failed",
+            "strategyErrorDescription": "The AI could not generate a strategy. Please try again."
+        }
+    },
+    "shared": {
+        "generatedThemesList": {
+            "copySuccess": "Theme copied to clipboard",
+            "copyErrorTitle": "Failed to copy",
+            "copyErrorDescription": "Could not copy theme to clipboard.",
+            "continueButton": "Continue to Content Aligner"
+        },
+        "toasts": {
+            "error_generating_themes_title": "Error Generating Themes",
+            "error_generating_themes_description": "There was an issue generating conspiracy themes. Please try again.",
+            "error_generating_content_title": "Error Generating Content",
+            "error_generating_content_description": "There was an issue generating content. Please try again.",
+            "copy_suggestion_success": "Suggestion copied to clipboard",
+            "copy_suggestion_error_title": "Failed to copy",
+            "copy_suggestion_error_description": "Could not copy suggestion to clipboard.",
+            "expanding_thread_title": "Expanding thread: {stage}",
+            "expanding_thread_description": "This will take a moment.",
+            "expand_success": "Thread expanded!",
+            "expand_error_title": "Error Expanding Thread",
+            "expand_error_description": "Could not generate the next part of the thread.",
+            "generating_image_title": "Generating related image...",
+            "generating_image_description": "The AI is creating a visual masterpiece.",
+            "generate_image_success": "Image generated successfully!",
+            "generate_image_error_title": "Image Generation Failed",
+            "generate_image_error_description": "Could not generate the image. Please try again.",
+            "upload_image_success": "Image uploaded successfully!",
+            "upload_image_error_title": "Image Upload Failed",
+            "upload_image_error_description": "There was a problem uploading your image.",
+            "upload_image_too_large": "The selected image is too large. Please choose a file under 4MB.",
+            "trends_fetched": "Latest trends fetched.",
+            "publishing_title": "Publishing content...",
+            "publishing_description": "Connecting to the social matrix...",
+            "publish_success_title": "Content Published!",
+            "publish_success_description": "Your message has been broadcast.",
+            "publish_error_title": "Publishing Failed",
+            "refining_content_title": "Refining content...",
+            "refining_content_description": "The AI is polishing your text.",
+            "refine_success": "Content refined successfully!",
+            "refine_error_title": "Error Refining Content",
+            "refine_error_description": "Could not refine the content. Please try again."
+        }
+    }
+}
